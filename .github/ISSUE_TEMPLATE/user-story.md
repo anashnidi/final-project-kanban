@@ -14,4 +14,3 @@ assignees: ''
 - Given [context]  
 - When [action]  
 - Then [outcome]
-
